@@ -1,4 +1,4 @@
-package com.example.wanandroid_kotlin
+package com.kyf.wanandroid
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,7 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.wanandroid_kotlin.ui.theme.WanAndroidKotlinTheme
+import com.kyf.wanandroid.ui.theme.WanAndroidKotlinTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

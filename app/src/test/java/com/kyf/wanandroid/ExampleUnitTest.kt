@@ -1,4 +1,4 @@
-package com.example.wanandroid_kotlin
+package com.kyf.wanandroid
 
 import org.junit.Test
 

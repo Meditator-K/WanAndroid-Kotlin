@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.wanandroid_kotlin"
+    namespace = "com.kyf.wanandroid"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.wanandroid_kotlin"
+        applicationId = "com.kyf.wanandroid"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

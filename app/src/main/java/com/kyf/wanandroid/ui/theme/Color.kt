@@ -1,4 +1,4 @@
-package com.example.wanandroid_kotlin.ui.theme
+package com.kyf.wanandroid.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
